@@ -1,0 +1,49 @@
+{
+  "name": "wspack",
+  "version": "4.2.4",
+  "description": "Websocket client & server starter for realtime apps.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "websocket",
+    "websockets",
+    "socket",
+    "sockets",
+    "command",
+    "broadcast",
+    "streaming",
+    "message",
+    "queue",
+    "push",
+    "notification",
+    "server",
+    "client",
+    "realtime",
+    "ssr",
+    "hmr",
+    "framework",
+    "chat"
+  ],
+  "author": "stormcrows",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormcrows/wspack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stormcrows/wspack/issues"
+  },
+  "homepage": "https://github.com/stormcrows/wspack#readme",
+  "maintainers": [
+    {
+      "name": "stormcrows",
+      "email": "stormingcrows@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "websocket": "^1.0.25"
+  }
+}
