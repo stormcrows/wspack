@@ -1,6 +1,6 @@
 # wspack
 
-WsPack offers a WebSocket client & server for quick setup of a realtime app.
+WsPack offers a WebSocket client & server scaffolding for an instant realtime app.
 
 Websockets are great technology for:
   - broadcasting messages,
