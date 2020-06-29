@@ -1,6 +1,6 @@
 {
   "name": "wspack",
-  "version": "4.3.0",
+  "version": "4.3.1",
   "description": "Websocket client & server starter for realtime apps.",
   "main": "index.js",
   "scripts": {
